@@ -278,7 +278,7 @@ export default function Layout({ children, currentPageName }) {
           {/* Copyright and Legal Links */}
           <div className="border-t border-gray-800 pt-6">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-              <p>© 2025 IAC Research Foundation. All Rights Reserved.</p>
+              <p>© 2025 Yashlok Welfare Foundation. All Rights Reserved.</p>
               <div className="flex flex-wrap gap-4">
                 <Link to={createPageUrl("PrivacyPolicy")} className="hover:text-white transition-colors">Privacy Policy</Link>
                 <Link to={createPageUrl("TermsOfUse")} className="hover:text-white transition-colors">Terms of Service</Link>
