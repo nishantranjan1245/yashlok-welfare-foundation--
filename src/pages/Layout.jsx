@@ -261,15 +261,16 @@ export default function Layout({ children, currentPageName }) {
               <div className="space-y-3 text-sm mb-4">
                 <div className="flex items-start gap-2">
                   <MapPin className="w-4 h-4 text-blue-500 flex-shrink-0 mt-0.5" />
-                  <p className="text-gray-400">9A Woodburn Park, Kolkata, West Bengal - 700020</p>
+                  <p className="text-gray-400"> B-405, Mohan Mansion, Gulmohar Road,
+ Chunnabhati (E), Mumbai, Maharashtra, India – 400022</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <Mail className="w-4 h-4 text-blue-500 flex-shrink-0 mt-0.5" />
-                  <a href="mailto:info@iacresearch.foundation" className="text-gray-400 hover:text-white transition-colors">info@iacresearch.foundation</a>
+                  <a href="mailto:contact@yashlokwelfare.org" className="text-gray-400 hover:text-white transition-colors">contact@yashlokwelfare.org</a>
                 </div>
                 <div className="flex items-start gap-2">
                   <Phone className="w-4 h-4 text-blue-500 flex-shrink-0 mt-0.5" />
-                  <a href="tel:+919876985687" className="text-gray-400 hover:text-white transition-colors">+91 9876985687</a>
+                  <a href="tel:+91-9876543210" className="text-gray-400 hover:text-white transition-colors">+91-9876543210</a>
                 </div>
               </div>
             </div>
