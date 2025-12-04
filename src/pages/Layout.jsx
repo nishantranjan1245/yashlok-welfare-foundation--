@@ -72,7 +72,7 @@ export default function Layout({ children, currentPageName }) {
               </div>
               <div className="block relative z-10">
                 <div className="font-bold text-xl bg-gradient-to-r from-[#4481e0] via-[#248fa9] to-[#20939f] bg-clip-text text-transparent animate-gradient-text">
-                  Yashlok Welfare
+                  Yashlok Welfare Foundation
                 </div>
                 <style jsx>{`
                   @keyframes gradient-text {
@@ -209,7 +209,7 @@ export default function Layout({ children, currentPageName }) {
                 </div>
                 <div>
                   <div className="font-bold text-xl bg-gradient-to-r from-[#4481e0] via-[#248fa9] to-[#20939f] bg-clip-text text-transparent animate-gradient-text">
-                  Yashlok Welfare
+                  Yashlok Welfare Foundation
                 </div>
                 </div>
               </Link>
