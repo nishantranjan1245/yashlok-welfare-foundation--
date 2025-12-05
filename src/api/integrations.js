@@ -1,23 +1,23 @@
-import { base44 } from './base44Client';
+import { yashlokwelfarefoundation } from './base44Client';
 
 
 
 
-export const Core = base44.integrations.Core;
+export const Core = yashlok.integrations.Core;
 
-export const InvokeLLM = base44.integrations.Core.InvokeLLM;
+export const InvokeLLM = yashlok.integrations.Core.InvokeLLM;
 
-export const SendEmail = base44.integrations.Core.SendEmail;
+export const SendEmail = yashlok.integrations.Core.SendEmail;
 
-export const UploadFile = base44.integrations.Core.UploadFile;
+export const UploadFile = yashlok.integrations.Core.UploadFile;
 
-export const GenerateImage = base44.integrations.Core.GenerateImage;
+export const GenerateImage = yashlok.integrations.Core.GenerateImage;
 
-export const ExtractDataFromUploadedFile = base44.integrations.Core.ExtractDataFromUploadedFile;
+export const ExtractDataFromUploadedFile = yashlok.integrations.Core.ExtractDataFromUploadedFile;
 
-export const CreateFileSignedUrl = base44.integrations.Core.CreateFileSignedUrl;
+export const CreateFileSignedUrl = yashlok.integrations.Core.CreateFileSignedUrl;
 
-export const UploadPrivateFile = base44.integrations.Core.UploadPrivateFile;
+export const UploadPrivateFile = yashlok.integrations.Core.UploadPrivateFile;
 
 
 
